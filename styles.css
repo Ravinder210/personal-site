@@ -1,0 +1,220 @@
+
+body{
+  text-align: center;
+  font-family: font-family: 'Merriweather', serif;
+  display: inline-block;
+
+}
+
+
+.main {
+  background-color: #9ED5C5;
+  padding-top: 30px;
+
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  margin: 20px auto;
+  background:#66BFBF;
+  height: 200px;
+
+}
+
+h1 {
+  color: #8D8741;
+  font-size: 5rem;        /*1 em = 16px=100%= 1rem*/
+  font-family: 'Sacramento', cursive;
+  margin: 0 auto;
+  padding-top: 80px
+
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  line-height: 2;
+  margin-top: 0;
+  font-size: 3rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+  font-weight: bold;
+  color: #40514E;
+
+}
+
+
+.c1 {
+  left: 900px;
+  top: 70px;
+  position: absolute;
+}
+
+.c2 {
+  left: 440px;
+  position: absolute;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  margin-top: 10px;
+}
+
+.gif-skill {
+  border-radius: 10%;
+  height: 40%;
+  width: 40%;
+  float: left;
+  margin-right: 50px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+
+
+}
+
+.car {
+  border-radius: 50%;
+  height: 250px;
+  width: 270px;
+  display: inline-block;
+  /* margin-top: 50px; */
+  padding-left: 20px;
+  position: absolute;
+  top: 1800px;
+  left: 800px;
+  float: right;
+
+
+
+
+}
+
+.touch {
+  border-radius: 10%;
+  height: 30%;
+  width: 30%;
+  margin-top: 30px;
+
+}
+
+a {
+  color: #11999E;
+}
+
+.skill-row {
+  margin: 50px auto 0 auto;
+  width: 50%;
+
+
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 0 auto;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb,  #2bc4ad);
+  text-decoration: none;
+}
+
+.car-heading {
+    font-size: 2rem;
+    position: absolute;
+    top: 1730px;
+    left: 260px;
+}
+
+.car-para {
+   position: absolute;
+   top: 1820px;
+   left: 70px;
+   margin-right:  300px;
+   font-weight: bold;
+   width: 670px;
+}
+
+.contact-me {
+  margin-top: 370px;
+
+}
+
+.prog-para {
+  width: 800px;
+
+}
+
+.footer-link {
+  margin-top: 200px;
+  position: relative;
+  top: 50px;
+  font-size: 1.5rem;
+}
+
+
+hr {
+  background-color: #EAF6F6;
+  width: 100%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 2px;
+
+}
+
+.insta-icon {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 2810px;
+  left: 49.5%;
+
+}
+
+.linkedin-icon {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 2810px;
+  left:41%;
+}
+
+.ghithub-icon {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 2810px;
+  left:57.5%;
+}
